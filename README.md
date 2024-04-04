@@ -1,0 +1,1 @@
+This is a Java program that demonstrates how to create an SSL server socket and accept incoming connections securely using TLS. It includes functionality to read a video file from the client and send it to the server.
